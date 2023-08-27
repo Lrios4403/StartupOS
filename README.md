@@ -14,16 +14,4 @@ Version 2, December 2004
 
 ## Usage
 
-[Provide instructions or code snippets on how to use your project, if applicable.]
-
-## Contributing
-
-[If you're open to contributions, mention how others can contribute to your project.]
-
-## Contact
-
-[Provide contact information or ways to reach out about the project, if desired.]
-
-## Acknowledgements
-
-[If you want to acknowledge any individuals, libraries, or resources that have been helpful for your project, include them here.]
+Ran this on an old IBM, pretty sure it works elsewhere
